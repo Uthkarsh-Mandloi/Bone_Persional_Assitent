@@ -43,7 +43,7 @@ def speak(text):
 # AudioSegment.ffprobe = r"C:\FFmpeg\bin\ffprobe.exe"
 
 # # Set up Google Cloud credentials
-# credential_path = r"D:\New_AI\bone-resources-69dd4f762b89.json"
+# credential_path = r"Enter path of google cloude credintial .json file"
 # os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credential_path
 
 # # Function to synthesize and play speech
