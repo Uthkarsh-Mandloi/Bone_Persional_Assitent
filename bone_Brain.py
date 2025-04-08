@@ -17,7 +17,7 @@ def clean_reply(text):
 
 #importing os and groq for chatbot using API  
 import os
-os.environ['GROQ_API_KEY'] = "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" 
+os.environ['GROQ_API_KEY'] = "Enter Your API Key Here" # Set your API key here
 from groq import Groq
 
 #import to save and load history 
